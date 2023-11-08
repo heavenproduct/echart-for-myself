@@ -1,0 +1,238 @@
+Bag
+Bottle, Wine bottle, Perfume bottle
+Wahser, Automatic washer, Washing machine
+Vessel, Watercraft
+Train, Railroad train
+Telephone, Phone, Telephone set
+Table
+Stove
+Sofa, couch, lounge
+Rifle
+Pistol
+Printer
+Flowerpot, Planter
+Pillow
+Piano
+Mug
+Motorcycle, Bike
+Microwave
+Microphone, Mike
+Mailbox, Letter box
+Loudspeaker, Speaker, Speaker unit
+Laptop, Laptop computer
+Lamp, Table Lamp
+Pot, Jar
+Helmet, Safety hat
+Guitar, Acoustic guitar
+Bookshelf, File, File cabinet
+Faucet, Spigot
+Earphone, Earpiece, Headphone
+Display, Video display
+Dishwasher
+Computer keyboard, Keypad
+Clock, Alarm clock, Alarm
+Chair
+Car, Racing car, Touring car
+Cap
+Can, Tin, Tin can
+Camera, Photographic camera
+Caninet, Dresser, Bed cabinet
+Bus, School bus
+Bowl
+Bicycle
+Bench
+Bed
+Bathtub
+Basket
+Ashcan, Trash can, Garbage can
+Airplane, aeroplane, plane
+Umbrella
+Plush toy
+Toy figure, Doll, Garage Kit
+Towel
+Toy bear
+Toy cat
+Toy bird
+Toy insect
+Toy cow
+Toy dog
+Toy monkey
+Toy elephant
+Toy fish
+Toy horse
+Toy sheep
+Toy mouse
+Toy tiger
+Toy rabbit
+Toy dragon
+Toy snake
+Toy chook
+Toy pig
+Rice cooker
+Pressure cooker
+Toaster
+Dryer
+Blackboard eraser
+Bucket
+Candle
+Cassette
+Computer mouse
+Easel
+Fan
+Cookie
+Fries
+Donut
+Coat rack
+Guitar stand
+Can opener, bottle opener
+Flashlight
+Hammer
+Screw driver
+Jug, kettle
+Chopsticks
+Spoon
+Ladder
+Ceiling lamp
+Wall lamp
+Light switch
+Paper box
+Wheelchair
+Walking stick
+Shower, showerhead
+Toilet
+Sink
+Power socket
+Bagged snacks
+Tripod
+Selfie stick
+Hair dryer
+Lipstick
+Sanitary napkin, Diaper
+Toilet paper, Roll paper, Tissues paper
+Rockery
+Chinese hot dishes
+Root carving
+Flower
+Book
+Pipe PVC Metal pipe
+Projector
+Cabinet Air Conditioner
+Desk Air Conditioner,
+Refrigerator
+Percussion, Drums
+Strings, Guitar, Guzheng, Erhu
+Wind instruments, Suona, Tuba, Trumpet, Flute
+Balloons, various shapes
+Scarf
+Shoe
+Skirt
+Pants
+Clothing
+Box
+Soccer, Basketball, Volleyball, Rugby
+Roast Duck, Roast Chicken, Roast pig, Roast Beef
+Pizza, Finger cake
+Ginger
+Cauliflower
+Broccoli
+Cabbage
+Eggplant
+Pumpkin
+winter melon
+Tomato
+Corn
+Sunflower
+Potato
+Sweet potato
+Chinese cabbage
+Onion
+Momordica charantia
+Chili
+Cucumber
+Grapefruit
+Jackfruit
+Star fruit
+Avocado
+Shakyamuni
+Coconut
+Pineapple
+Kiwi
+Pomegranate
+Pawpaw
+Watermelon
+Apple
+Banana
+Pear
+Cantaloupe
+Durian
+Persimmon
+Grape
+Peach
+Power strip
+Racket
+Toy butterfly 
+Toy duck
+Toy turtle
+Bath sponge
+Glove
+Badminton
+Lantern
+Tricycle
+Chestnut
+Accessory
+Axe
+Shovel
+Cigarette
+Stapler
+Lighter
+Bread
+Key
+Toothpaste
+Swin ring
+Watch
+Telescope
+Eggs
+Bun
+Guava
+Okra
+Tangerine
+Lotus root
+Taro
+Lemon
+Garlic
+Mango
+Sausage
+Besom
+Mop
+Lock
+Ashtray
+Doorknob
+Conch
+Seafood
+Extinguisher
+Hairbrush
+Ice cream
+Razor
+Adhesive hook
+Hand Warmer
+Quilt
+Scales
+Thermometer
+Bell
+Sugarcane
+Adapter(Water pipe)
+Calendar
+Cleaner
+End table
+Electronic mosquito swatter
+Electronic mosquito killer
+Heating radiator
+Humidifier
+Insecticide
+Luggage case
+Electric saw
+Electric drill
+Inflator
+Ironmongery
+Bulb
+Stirrer
